@@ -25,6 +25,8 @@ The system must identify eligible students by checking all the required criteria
 8. Display the ranked list of eligible students.
 9. If no students are eligible, display an appropriate message.
 10. Stop the program.
+
+
  #flow chart
 ```mermaid flow chart
 flowchart TD
